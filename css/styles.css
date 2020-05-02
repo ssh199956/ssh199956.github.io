@@ -421,8 +421,18 @@ a img{
   }
 
 .android-footer {
-  background-color: #fafafa;
+  background-color: #FAFAFA;
   position: relative;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+/*  align-content: center;
+  margin: 0 auto; */
+ 
+/*  padding-left: 520px; */
+   /* line-height: 50px; */
+   /* width: 100%; */
+  
 }
 
   .android-footer a:hover {
