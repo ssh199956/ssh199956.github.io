@@ -1,9 +1,9 @@
 # 个人主页
 
 
-- [主页](http://sshlearning.com)
-- [大数据](https://data.sshlearning.com)
-- [博客](http://blog.sshleaarning.com)
+- [主页](http://sshlearning.cn)
+- [大数据](https://data.sshlearning.cn)
+- [博客](http://blog.sshleaarning.cn)
 - [语雀](https://www.yuque.com/sshlearning/)
 - [知乎](https://www.zhihu.com/people/sshlearning/activities)
 
